@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @AhmedKhan24
--I am a beginner in programming learning python and java
--Would love it if you all help me out :)
+
 
 
 <!---
